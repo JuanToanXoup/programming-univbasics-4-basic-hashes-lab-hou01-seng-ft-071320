@@ -1,10 +1,10 @@
 def new_hash
-  hash = {}
+  {}
 end
 
 def my_hash
   hash = {
-    :anime ["Promare"]
+    :anime => "Promare"
   }
 end
 
