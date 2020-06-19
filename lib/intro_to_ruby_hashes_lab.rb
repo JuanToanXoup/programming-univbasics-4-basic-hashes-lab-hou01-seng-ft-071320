@@ -2,9 +2,8 @@ def new_hash
   {}
 end
 
-def my_hash {
-  :anime => "Promare"
-  }
+def my_hash 
+  {:anime => "Promare"}
 end
 
 def pioneer
