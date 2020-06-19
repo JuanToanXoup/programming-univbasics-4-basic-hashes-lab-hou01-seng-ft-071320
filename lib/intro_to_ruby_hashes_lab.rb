@@ -2,13 +2,13 @@ def new_hash
   {}
 end
 
-def my_hash
-  hash = {
-    :anime => "Promare"
+def my_hash {
+  :anime => "Promare"
   }
 end
 
-def pioneer {
+def pioneer
+  hash = {
   :name => "Grace Hopper"
 }
 end
